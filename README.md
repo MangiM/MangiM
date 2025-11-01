@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MangiM
+- 👋 Hi, I’m Mangi
 - 👀 I’m interested in Blockchain and AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Supabase, and Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
